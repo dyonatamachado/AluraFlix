@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/dyonata/.dotnet/store/|arch|/|tfm|",
+      "/home/dyonata/.nuget/packages"
+    ]
+  }
+}
